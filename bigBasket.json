@@ -1,0 +1,106 @@
+{
+  "vagProduct": [
+    {
+      "sno": 70604,
+      "name": "Potato",
+      "category": "Vegetable",
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xxl/40048457_9-fresho-potato-new-crop.jpg",
+      "price": 45,
+      "qty": 25,
+      "id": 1
+    },
+    {
+      "sno": 70605,
+      "name": "Cabbage",
+      "category": "Vegetable",
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/10000066_25-fresho-cabbage.jpg",
+      "price": 16,
+      "qty": 35,
+      "id": 2
+    },
+    {
+      "sno": 70606,
+      "name": "Avacado",
+      "category": "Fruit",
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/xxl/40049413_3-fresho-avocado-organically-grown.jpg",
+      "price": 45,
+      "qty": 36,
+      "id": 3
+    },
+    {
+      "sno": 70607,
+      "price": 95,
+      "name": "Apple Red",
+      "category": "Fruit",
+      "imageUrl": "https://www.bigbasket.com/media/uploads/p/l/40134282_3-fresho-baby-apple.jpg",
+      "qty": 15,
+      "id": 4
+    },
+    {
+      "sno": 70708,
+      "name": "Orange",
+      "category": "Fruit",
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-9fHeEhkNtfGg-142BAPek3pb0m-m2HU8jcgFwOaDA&s",
+      "price": 60,
+      "qty": 28,
+      "id": 5
+    },
+    {
+      "sno": 70709,
+      "price": 50,
+      "name": "Mango",
+      "category": "Fruit",
+      "qty": 40,
+      "imageUrl": "https://www.shutterstock.com/image-photo/ripe-mango-green-leaf-isolated-260nw-1805357110.jpg",
+      "id": 6
+    },
+    {
+      "sno": 70710,
+      "price": 30,
+      "name": "Tomato",
+      "category": "Vegetable",
+      "qty": 12,
+      "imageUrl": "https://media.istockphoto.com/id/941825878/photo/tomato-with-slice-isolated-with-clipping-path.jpg?s=612x612&w=0&k=20&c=P3PQlDAxzgx5i1hGCHKEcBy-rZmqn4f5CZPggWnh9yQ=",
+      "id": 7
+    },
+    {
+      "sno": 70711,
+      "price": 35,
+      "name": "Cheese",
+      "category": "Dairy",
+      "qty": 20,
+      "imageUrl": "https://thumbs.dreamstime.com/b/swiss-cheese-holes-18911609.jpg",
+      "id": 8
+    }
+  ],
+  "Registration": [
+    {
+      "firstName": "Vijay",
+      "secondName": "Mulani",
+      "email": "vijaymulani1234@gmail.com",
+      "password": "vgm@12345",
+      "id": 1
+    },
+    {
+      "firstName": "Vilas",
+      "secondName": "Mulani",
+      "email": "vilasmulani@gmail.com",
+      "password": "vvm@12345",
+      "id": 2
+    },
+    {
+      "firstName": "Dishant",
+      "secondName": "Mulani",
+      "email": "dishantmulani@gmail.com",
+      "password": "dvm@12345",
+      "id": 3
+    },
+    {
+      "firstName": "Dhruvi",
+      "secondName": "Mulani",
+      "email": "dhruvimulani@gmail.com",
+      "password": "dvm@123456",
+      "id": 4
+    }
+  ]
+}
